@@ -16,6 +16,10 @@ In this challenge we were assigned to create an Calnedar application with the fo
 12. WHEN I refresh the page
 13. THEN the saved events persist
 
+## Screenshot and link to Deployed App:
+Deployed URL:
+
+Screen Shot: 
 ## Technology Used
 1. JavaScript
 2. Bootstrap
