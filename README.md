@@ -20,6 +20,8 @@ In this challenge we were assigned to create an Calnedar application with the fo
 Deployed URL:
 
 Screen Shot: 
+![image](https://user-images.githubusercontent.com/124960295/227824471-f499835a-2df8-4704-bd74-f45df371f0a2.png)
+
 ## Technology Used
 1. JavaScript
 2. Bootstrap
